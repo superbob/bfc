@@ -1,0 +1,9 @@
+build:
+  maxIssues: -1
+
+style:
+  MaxLineLength:
+    maxLineLength: 180
+    excludeCommentStatements: true
+  WildcardImport:
+    active: false
